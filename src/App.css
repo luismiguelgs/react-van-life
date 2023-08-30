@@ -17,3 +17,9 @@
   height: auto;
   margin-top: 10px;
 }
+
+.active-link {
+  color: #161616; /* Cambia el color del enlace activo */
+  font-weight: bold; /* Cambia el estilo de fuente */
+  text-decoration: underline;
+}
